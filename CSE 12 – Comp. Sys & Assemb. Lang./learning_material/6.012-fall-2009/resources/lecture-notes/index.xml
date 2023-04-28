@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CCD Nobel Prize slides</title>
+      <link>/resources/mit6_012f09_lec10_ccd/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec10_ccd/data.json</guid>
+      <description>Lecture presentation on the 2009 Nobel Price in Physics for the invention of Charge Coupled Devices (CCDs).</description>
+    </item>
+    
+    <item>
+      <title>CMOS Gate Delays</title>
+      <link>/resources/mit6_012f09_lec15_cmos/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec15_cmos/data.json</guid>
+      <description>Lecture handout on CMOS gate delay.</description>
+    </item>
+    
+    <item>
+      <title>CMOS Gate Delays, Power, and Scaling</title>
+      <link>/resources/mit6_012f09_lec16_scaling/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec16_scaling/data.json</guid>
+      <description>Lecture handout on CMOS gate delays, power, and scaling.</description>
+    </item>
+    
+    <item>
+      <title>CMOS Scaling Trends: Snapshots from 40 and 10 years ago</title>
+      <link>/resources/mit6_012f09_lec16_compare/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec16_compare/data.json</guid>
+      <description>Lecture handout on CMOS scaling trends, Moore&amp;rsquo;s law, historical trends, and Intel trends.</description>
+    </item>
+    
+    <item>
+      <title>Comments on Photoconductive Detectors</title>
+      <link>/resources/mit6_012f09_lec03_photo/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec03_photo/data.json</guid>
+      <description>Lecture handout on photoconductive detectors.</description>
+    </item>
+    
+    <item>
+      <title>Inverter Analysis and Design</title>
+      <link>/resources/mit6_012f09_lec14_inverter/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec14_inverter/data.json</guid>
+      <description>Lecture handout on inverter analysis and design.</description>
+    </item>
+    
+    <item>
+      <title>Inverter Switching Transient Analysis</title>
+      <link>/resources/mit6_012f09_lec14_delays/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec14_delays/data.json</guid>
+      <description>Lecture handout on inverter switching transient analysis.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 1 - Introduction to Semiconductors</title>
+      <link>/resources/mit6_012f09_lec01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec01/data.json</guid>
+      <description>Lecture presentation with an introduction to semiconductors, doping, generation/recombination, TE carrier concentrations, carrier dynamics, transport, and drift.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 10 - MOS Caps II; MOSFETs I</title>
+      <link>/resources/mit6_012f09_lec10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec10/data.json</guid>
+      <description>Lecture presentation on the three-terminal MOS capacitor, MOSFETs, and gradual channel approximation (GCA) using DA and ignoring subthreshold carriers.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 11 - MOSFETs II; Large Signal Models</title>
+      <link>/resources/mit6_012f09_lec11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec11/data.json</guid>
+      <description>Lecture presentation on a complete GC/DA model for iDS, saturation, channel length modulation, output characteristics, and regions of operation.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 12 - Sub-threshold MOSFET Operation</title>
+      <link>/resources/mit6_012f09_lec12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec12/data.json</guid>
+      <description>Lecture presentation on subthreshold operation of MOSFETs, development of the model, comparison to full numerical solution, and comparing and contrasting with BJTs.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 13 - Linear Equivalent Circuits</title>
+      <link>/resources/mit6_012f09_lec13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec13/data.json</guid>
+      <description>Lecture presentation on linear equivalent circuits for MOSFETs and BJTs at low and high frequency, and transconductance of subthreshold MOSFETs.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 14 - Digital Circuits: Inverter Basics</title>
+      <link>/resources/mit6_012f09_lec14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec14/data.json</guid>
+      <description>Lecture presentation on logic inverter basics, introduction to CMOS, transfer characteristics, noise margins, and optimal device sizing.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 15 - Digital Circuits: CMOS</title>
+      <link>/resources/mit6_012f09_lec15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec15/data.json</guid>
+      <description>Lecture notes on CMOS analysis, switching delays, power dissipation, and speed/power trade-offs.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 16 - CMOS scaling; The Roadmap</title>
+      <link>/resources/mit6_012f09_lec16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec16/data.json</guid>
+      <description>Lecture presentation on CMOS analysis, subthreshold leakage, and scaling rules.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 17 - Linear Amplifier Basics; Biasing</title>
+      <link>/resources/mit6_012f09_lec17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec17/data.json</guid>
+      <description>Lecture presentation on linear amplifier basics, performance metrics, current source biasing, current mirrors, mid-band range, and two-port representation.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 18 - Single Transistor Amplifier Stages</title>
+      <link>/resources/mit6_012f09_lec18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec18/data.json</guid>
+      <description>Lecture presentation on single-transistor building block stages, and common-source, common-gate, and common-drain (follower) stages.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 19 - Differential Amplifier Stages</title>
+      <link>/resources/mit6_012f09_lec19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec19/data.json</guid>
+      <description>Lecture presentation on differential amplifiers, large signal transfer characteristics, and small signal analysis using common- and difference-mode inputs.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2 - Uniform Excitation; Non-uniform conditions</title>
+      <link>/resources/mit6_012f09_lec02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec02/data.json</guid>
+      <description>Lecture presentation on excess populations and minimum carrier lifetime, photoconductivity, non-uniform concentrations and diffusion, and Fick&amp;rsquo;s first and second laws.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 20 - Diff-Amp Anal. I: Metrics, Max. Gain</title>
+      <link>/resources/mit6_012f09_lec20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec20/data.json</guid>
+      <description>Lecture presentation on multi-stage amplifiers, cascading differential stages, current source biasing, output stages, performance metrics, nonlinear loads, and active loads.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 21 - Diff-Amp Anal. II: Output Stages</title>
+      <link>/resources/mit6_012f09_lec21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec21/data.json</guid>
+      <description>Lecture presentation on multi-stage amplifiers, active loads, biasing for maximum gain, input, and output swings.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 22 - Diff-Amp Anal. III: Cascode, µA-741</title>
+      <link>/resources/mit6_012f09_lec22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec22/data.json</guid>
+      <description>Lecture presentation on multi-stage amplifiers,, stage selection, speciality stages, looking at a commercial op-amp schematic, and frequency response.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 23 - Circuits at High Frequencies</title>
+      <link>/resources/mit6_012f09_lec23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec23/data.json</guid>
+      <description>Lecture presentation on frequency response of CS amplifiers, the Miller effect, intrinsic frequency limitations of MOSFETs, biasing to maximize speed, and power trade-off.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 24 - Intrin. Freq. Limits</title>
+      <link>/resources/mit6_012f09_lec24/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec24/data.json</guid>
+      <description>Lecture presentation on the OCTC method for estimating frequency response, subthreshold amplifiers for ultra-lower power electronics, and frequency performance.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 25 - Beyond Si; Beyond 6.012</title>
+      <link>/resources/mit6_012f09_lec25/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec25/data.json</guid>
+      <description>Lecture presentation on sub-threshold circuits, MOSFETs, BJTs, LEDs, and solar cells.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3 - Solving The Five Equations</title>
+      <link>/resources/mit6_012f09_lec03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec03/data.json</guid>
+      <description>Lecture presentation on the five basic equations, device structures in TE, carriers and electrostatic potential, the 60 mV rule, and Poisson&amp;rsquo;s equation (PE).</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4 - p-n Junctions: Electrostatics</title>
+      <link>/resources/mit6_012f09_lec04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec04/data.json</guid>
+      <description>Lecture presentation on p-n junctions in thermal equilibrium and under reverse bias, the depletion approximation (DA), and comparison to PE solution.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5 - p-n Junction Injection and Flow</title>
+      <link>/resources/mit6_012f09_lec05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec05/data.json</guid>
+      <description>Lecture presentation on reverse biased junctions, forward bias, and the special case of minority carrier injection into quasineutral regions.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6 - p-n Junctions: I-V Relationship</title>
+      <link>/resources/mit6_012f09_lec06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec06/data.json</guid>
+      <description>Lecture presentation on forward biased p-n junctions, carrier injection, I-V characteristics (ideal and real; forward and reverse), and engineering carrier injection.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7 - Bipolar Junction Transistors</title>
+      <link>/resources/mit6_012f09_lec07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec07/data.json</guid>
+      <description>Lecture presentation on bipolar junction transistors, two coupled diodes, terminal characteristics, and regions of operation.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8 - BJTs Wrap-up, Solar Cells, LEDs</title>
+      <link>/resources/mit6_012f09_lec08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec08/data.json</guid>
+      <description>Lecture presentation on solar cells and LEDs (light emitting diodes).</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9 - MOS Capacitors I</title>
+      <link>/resources/mit6_012f09_lec09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec09/data.json</guid>
+      <description>Lecture presentation on MOS capacitors, the DA applied to two-terminal MOS capacitor accumulation, depletion, inversion, VFB, VT, QA, and QN.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Abbreviations TE = thermal equilibrium
+MOS = metal-on-silicon
+MOSFET = metal-oxide-semiconductor field-effect transistor
+BJT = bipolar junction transistor
+CMOS = complementary metal-oxide-semiconductor
+CS = common source
+OCTC = open circuit time constant
+LEC # TOPICS SLIDES ADDITIONAL NOTES 1 Introduction to semiconductors, doping, generation/recombination, TE carrier concentrations. Carrier dynamics and transport: drift. (PDF) 2 Excess populations and minimum carrier lifetime, photoconductivity. Non-uniform concentrations and diffusion. Fick&amp;rsquo;s first and second laws.</description>
+    </item>
+    
+    <item>
+      <title>MOSFET Drain Current Modeling</title>
+      <link>/resources/mit6_012f09_lec11_drain/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec11_drain/data.json</guid>
+      <description>Lecture handout on MOSFET drain current modeling.</description>
+    </item>
+    
+    <item>
+      <title>MOSFETs in the Sub-threshold Region (i.e. a bit below VT) </title>
+      <link>/resources/mit6_012f09_lec12_sub/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec12_sub/data.json</guid>
+      <description>Lecture handout on sub-threshold modeling.</description>
+    </item>
+    
+    <item>
+      <title>Solving the 5 basic equations</title>
+      <link>/resources/mit6_012f09_lec03_five_eqn/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec03_five_eqn/data.json</guid>
+      <description>Lecture handout on the five basic equations of semiconductor device physics.</description>
+    </item>
+    
+    <item>
+      <title>The Gradual Channel Approximation for the MOSFET</title>
+      <link>/resources/mit6_012f09_lec11_gradual/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec11_gradual/data.json</guid>
+      <description>Lecture handout on gradual channel approximation for MOSFETs.</description>
+    </item>
+    
+    <item>
+      <title>The marvelous CASCODE</title>
+      <link>/resources/mit6_012f09_lec21_cascode/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec21_cascode/data.json</guid>
+      <description>Lecture handout on the cascode two-stage amplifier.</description>
+    </item>
+    
+    <item>
+      <title>Two Active Loads for Differential Amplifiers</title>
+      <link>/resources/mit6_012f09_lec20_loads/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_012f09_lec20_loads/data.json</guid>
+      <description>Lecture handout on two active loads for differential amplifiers: current mirror load and Lee load.</description>
+    </item>
+    
+  </channel>
+</rss>
