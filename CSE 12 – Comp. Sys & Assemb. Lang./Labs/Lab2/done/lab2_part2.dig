@@ -1283,7 +1283,7 @@
         </entry>
         <entry>
           <string>Inputs</string>
-          <int>6</int>
+          <int>7</int>
         </entry>
       </elementAttributes>
       <pos x="700" y="680"/>
@@ -1548,7 +1548,7 @@
           <string>outNo5</string>
         </entry>
       </elementAttributes>
-      <pos x="780" y="700"/>
+      <pos x="760" y="700"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2091,6 +2091,20 @@
         </entry>
       </elementAttributes>
       <pos x="1920" y="940"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
+          <string>outNo6</string>
+        </entry>
+      </elementAttributes>
+      <pos x="780" y="700"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -2693,6 +2707,10 @@
     <wire>
       <p1 x="760" y="-160"/>
       <p2 x="760" y="-100"/>
+    </wire>
+    <wire>
+      <p1 x="760" y="680"/>
+      <p2 x="760" y="700"/>
     </wire>
     <wire>
       <p1 x="760" y="60"/>
